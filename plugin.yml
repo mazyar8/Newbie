@@ -1,0 +1,5 @@
+name: Newbie
+description: newbie players have a protection, developed by Mazyar8
+author: Mazyar8
+main: dev.mazyar8.newbie.Newbie
+version: 1.8
